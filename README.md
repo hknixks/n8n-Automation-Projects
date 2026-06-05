@@ -1,6 +1,6 @@
 # n8n Automation Projects
 
-A collection of automation workflows built with n8n while learning.
+A collection of automation workflows built with n8n.
 
 ## Workflows
 | # | Name | Description |
